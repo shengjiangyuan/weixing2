@@ -23,5 +23,5 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "嘿嘿嘿 我希望呢以后能够和姐姐一起平平安安，岁岁年年，长长久久！！！",
 # 金句英文
-"note_en": "Rose will bloom all the time!!!"
+"note_en": "Meeting you was fate,and falling in love with you was out of my control."
 }
